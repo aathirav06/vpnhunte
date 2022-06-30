@@ -1,6 +1,6 @@
 Flask==2.1.0
 Jinja2
-Werkzeug==0.16.0
+Werkzeug>=2.0
 requests==2.22.0
 gunicorn
 Flask-Caching
